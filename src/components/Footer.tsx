@@ -1,7 +1,7 @@
 const footerLinks = {
     Services: ['Bridal Makeup', 'Hair Styling', 'Skin Facials', 'Nail Art', 'Mehndi', "Men's Grooming"],
     Studio: ['About Us', 'Our Team', 'Gallery', 'Reviews', 'Blog'],
-    Visit: ['Sevoke Road, Siliguri', 'West Bengal 734001', '+91 98765 43210', 'hello@cocostudios.in', 'Mon–Sun: 9am–8pm'],
+    Visit: ['1/2318,Main Mandali Road Ram Nagar,Shahdara', 'Delhi-11032', '+91 9266308242', 'hello@cocostudios.in', 'Mon–Sun: 10am–10pm'],
 }
 
 export default function Footer() {
@@ -15,7 +15,7 @@ export default function Footer() {
                     </div>
                     <div className="footer-brand-sub">Unisex Beauty Studio</div>
                     <p className="footer-brand-desc">
-                        A sanctuary of beauty and grooming in the heart of Siliguri.
+                        A sanctuary of beauty and grooming in the heart of Delhi.
                         Where every visit is a ritual and every client leaves transformed.
                     </p>
                 </div>
@@ -36,11 +36,16 @@ export default function Footer() {
             </div>
 
             <div className="footer-bottom">
-                <div className="footer-copy">© 2025 Coco Studios Unisex. All rights reserved.</div>
+                <div className="footer-copy">© 2024 Coco Studios Unisex. All rights reserved.</div>
                 <div className="footer-social">
-                    <a href="#">Instagram</a>
-                    <a href="#">Facebook</a>
-                    <a href="#">WhatsApp</a>
+                    <a href="https://www.instagram.com/cocounisexstudio?igsh=MW11dHF0N3c2aWQ4dw==">Instagram</a>
+                    <a href="https://www.facebook.com/people/COCO-Studio/61566714206704/#">Facebook</a>
+                    <a href="https://wa.me/9266308242" target="_blank">
+                        WhatsApp
+                    </a>
+                    <a href="https://maps.app.goo.gl/E6ZxeNAwsAMDsYvX7" target="_blank">
+                        Google Maps
+                    </a>
                 </div>
             </div>
         </footer>

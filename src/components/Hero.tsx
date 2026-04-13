@@ -40,7 +40,7 @@ export default function Hero() {
             {/* LEFT */}
             <div className="hero-left">
                 <div ref={eyebrowRef as React.RefObject<HTMLDivElement>} className="hero-eyebrow">
-                    Est. 2018 &nbsp;·&nbsp; Siliguri
+                    Est. 2024 &nbsp;·&nbsp; Delhi
                 </div>
 
                 <h1 className="hero-h1">
@@ -62,7 +62,7 @@ export default function Hero() {
                 </h1>
 
                 <p ref={taglineRef as React.RefObject<HTMLParagraphElement>} className="hero-tagline visible">
-                    Coco Studios — Siliguri's premier unisex beauty destination.
+                    Coco Studios — Delhi's premier unisex beauty destination.
                     Expert stylists, luxury treatments, and an experience crafted for every soul.
                 </p>
 

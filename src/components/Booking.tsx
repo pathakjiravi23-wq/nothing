@@ -60,7 +60,7 @@ export default function Booking() {
                 </div>
 
                 <p className="booking-contact reveal-up delay-4">
-                    Or WhatsApp us · +91 98765 43210 &nbsp;·&nbsp; Open 9am – 8pm, All Days
+                    Or WhatsApp us · +91 9266308242 &nbsp;·&nbsp; Open 10am – 10pm, All Days
                 </p>
             </div>
         </section>

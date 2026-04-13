@@ -57,7 +57,7 @@ export default function About() {
                     <em>it's an expression</em>
                 </h2>
                 <p className="about-text reveal-up delay-2">
-                    Founded in Siliguri, Coco Studios was born from a simple belief: every person —
+                    Founded in Delhi, Coco Studios was born from a simple belief: every person —
                     regardless of gender — deserves to feel extraordinary. We created a space where
                     luxury and warmth coexist, where your comfort is our craft.
                 </p>
